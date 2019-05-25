@@ -67,8 +67,7 @@ More information on how to use PatchData.csv can be found in the [server_files](
 
 ## Maintained By
 
-- [R. Bassett Jr.](https://github.com/Tatwi) (Tatwi)
+- No longer maintained. Maybe you want to do it?
 
 ## Future Updates
-- Tidying and fixes only; This here beast be functionally complete!
-- Contributors and maintainers are welcome! 
+- I won't be making any. Maybe you want to do it?
